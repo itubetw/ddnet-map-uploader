@@ -9,6 +9,8 @@ How to use:
 
 That's it! Now you can use ``!save_file`` and put the map in the same message to upload it :)
 
+(THE UPLOADER NEEDS THE ROLE 'Mapper' TO UPLOAD MAPS)
 
-
+#
+#
 don't forget to install the discord npm
